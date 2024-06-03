@@ -18,4 +18,6 @@ They cover a range of topics:
 
 More specific code examples for individual analysis software may be found in the facility GitHub and Teams Hub. 
 
+If you would like to copy the scripts only - these are available in the Raw Code folder 
+
 For bioinformatics support, contact Ryan Wallis at: phenotypic-screening@qmul.ac.uk
