@@ -18,4 +18,4 @@ They cover a range of topics:
 
 More specific code examples for individual analysis software may be found in the facility GitHub and Teams Hub. 
 
-For bioinformatics support, contact Ryan Wallis at: .link-style1[[phenotypic-screening@qmul.ac.uk ](mailto:phenotypic-screening@qmul.ac.uk )]
+For bioinformatics support, contact Ryan Wallis at:[[phenotypic-screening@qmul.ac.uk](mailto:phenotypic-screening@qmul.ac.uk )]
