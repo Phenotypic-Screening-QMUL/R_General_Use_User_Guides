@@ -1,6 +1,6 @@
 # R General Use User Guides
 
-These guides provides code examples for getting started with bioinformatic operations in R. 
+These guides provide code examples for getting started with bioinformatic operations in R. 
 
 They cover a range of topics:
 
@@ -16,8 +16,8 @@ They cover a range of topics:
 
 6. TNSE in R - Introduction to dimensionality reduction with TSNE, which is often used for visualising multi-parameter single target data
 
-More specific code examples for individual analysis software may be found in the facility GitHub and Teams Hub. 
-
-If you would like to copy the scripts only - these are available in the Raw Code folder 
+**Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder.**
 
 For bioinformatics support, contact Ryan Wallis at: phenotypic-screening@qmul.ac.uk
+
+
