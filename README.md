@@ -15,3 +15,7 @@ They cover a range of topics:
 5. UMAPS in R - Introduction to dimensionality reduction with UMAP, which is often used for visualising multi-parameter single target data
 
 6. TNSE in R - Introduction to dimensionality reduction with TSNE, which is often used for visualising multi-parameter single target data
+
+More specific code examples for individual analysis software may be found in the facility GitHub and Teams Hub. 
+
+For bioinformatics support, contact Ryan Wallis at: .link-style1[[phenotypic-screening@qmul.ac.uk ](mailto:phenotypic-screening@qmul.ac.uk )]
