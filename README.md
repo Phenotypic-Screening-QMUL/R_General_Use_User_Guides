@@ -16,7 +16,7 @@ They cover a range of topics:
 
 6. TNSE in R - Introduction to dimensionality reduction with TSNE, which is often used for visualising multi-parameter single target data
 
-**Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder or can be downloaded from GitHub and opened in your web browser.**
+**Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder or can be downloaded from the "Walkthrough Guides" folder and opened in your web browser.**
 
 For bioinformatics support, contact Ryan Wallis at: phenotypic-screening@qmul.ac.uk
 
