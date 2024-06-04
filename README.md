@@ -1,6 +1,6 @@
 # R General Use User Guides
 
-These guides provide code examples for getting started with bioinformatic operations in R. 
+These guides provide raw code examples for getting started with bioinformatic operations in R. 
 
 They cover a range of topics:
 
