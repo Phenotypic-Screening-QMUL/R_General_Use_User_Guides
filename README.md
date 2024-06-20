@@ -4,6 +4,8 @@ These guides provide raw code examples for getting started with bioinformatic op
 
 They cover a range of topics:
 
+00. Getting started with Github - Introduction to GitHub Version Control
+
 0. Getting started with R/RStudio - Introduction to R programming language and how to get set up - we recommend reading this first!
 
 1. R Cheat Sheet - A useful collection of code that can be copied in order to perform a variety of basic operations in R such as importing data.
