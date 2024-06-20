@@ -4,21 +4,21 @@ These guides provide raw code examples for getting started with bioinformatic op
 
 They cover a range of topics:
 
-00. Getting started with Github - Introduction to GitHub Version Control
+- Getting started with Github - Introduction to GitHub Version Control
 
-0. Getting started with R/RStudio - Introduction to R programming language and how to get set up - we recommend reading this first!
+- Getting started with R/RStudio - Introduction to R programming language and how to get set up - we recommend reading this first!
 
-1. R Cheat Sheet - A useful collection of code that can be copied in order to perform a variety of basic operations in R such as importing data.
+- R Cheat Sheet - A useful collection of code that can be copied in order to perform a variety of basic operations in R such as importing data.
 
-2. Basic Dplyr - An introduction to one of the most widely used methods for data manipulation in R inlcuding: cleaning, transforming, and summarising data.
+- Basic Dplyr - An introduction to one of the most widely used methods for data manipulation in R inlcuding: cleaning, transforming, and summarising data.
 
-3. Introduction to ggplot2 - This is the go to package for data visualisation and used to create most graphs and charts
+- Introduction to ggplot2 - This is the go to package for data visualisation and used to create most graphs and charts
 
-4. Heatmaps in heatmap.2 - This is one of the many heatmap packages available and is particuarly useful for visualising morphometric data from InCarta
+- Heatmaps in heatmap.2 - This is one of the many heatmap packages available and is particuarly useful for visualising morphometric data from InCarta
 
-5. UMAPS in R - Introduction to dimensionality reduction with UMAP, which is often used for visualising multi-parameter single target data
+- UMAPS in R - Introduction to dimensionality reduction with UMAP, which is often used for visualising multi-parameter single target data
 
-6. TNSE in R - Introduction to dimensionality reduction with TSNE, which is often used for visualising multi-parameter single target data
+- TNSE in R - Introduction to dimensionality reduction with TSNE, which is often used for visualising multi-parameter single target data
 
 **Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder or can be downloaded from the "Walkthrough Guides" folder and opened in your web browser.**
 
